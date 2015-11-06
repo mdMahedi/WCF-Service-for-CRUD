@@ -1,0 +1,6 @@
+F:\Mahedi C#\Service\WCFServiceForCRUD\WCFServiceForCRUD\bin\WCFServiceForCRUD.dll.config
+F:\Mahedi C#\Service\WCFServiceForCRUD\WCFServiceForCRUD\bin\WCFServiceForCRUD.dll
+F:\Mahedi C#\Service\WCFServiceForCRUD\WCFServiceForCRUD\bin\WCFServiceForCRUD.pdb
+F:\Mahedi C#\Service\WCFServiceForCRUD\WCFServiceForCRUD\obj\Debug\WCFServiceForCRUD.csprojResolveAssemblyReference.cache
+F:\Mahedi C#\Service\WCFServiceForCRUD\WCFServiceForCRUD\obj\Debug\WCFServiceForCRUD.dll
+F:\Mahedi C#\Service\WCFServiceForCRUD\WCFServiceForCRUD\obj\Debug\WCFServiceForCRUD.pdb
